@@ -1,0 +1,17 @@
+p{font-size:15pt;color:blue;font-style:sans-serief,Arial;}
+
+h3{font-size:20pt;color:red;font-style:Arial;}
+a:hover {
+  background-color: yellow;
+}
+body {
+  background-image: url("paper.gif");
+}
+img{border-style:ridge;border-wisth:30px;border-color:blue green red yellow;}
+
+p{font-size:15pt;color:purple;font-style:sans-serief,Arial;}
+
+h5{font-size:20pt;color:orange;font-style:Arial;}
+
+ol{font-size:15pt;color:purple;font-style:sans-serief,Arial;}
+
